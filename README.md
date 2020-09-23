@@ -13,7 +13,7 @@ Working on it. <br>
 ✔️ .css <br>
 ✔️ .js <br>
 ⚙️ React (+ Hooks) <br> 
-⚙️ Redux
+⚙️ Redux (+ Ducks method)
 
 
 <h3> 🔥 Motivation </h3>
