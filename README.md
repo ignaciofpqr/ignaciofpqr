@@ -1,9 +1,31 @@
-### Hi 👋 here !! 
+# Hola! I'm Ignacio 👋
 
-I'm Ignacio. A 29 year old, web developer student! 
-I started this journey in june of 2020 in the Henry Bootcamp 🚀!
+Bootcamp student for Henry 🚀 <br>
+Full-stack developer with passion for sports, videogames and people. <br> 
+Proudly from Argentina 🧉
 
-- 🔭 I’m currently finishing my bootcamp 
-- 🌱 I’m currently learning Redux
-- 👯 I’m looking to collaborate on any project! 
-- 📫 How to reach me: Find me on Twitter! @ignaciofpqr
+
+
+<h3> 🛠️ Skills </h3>
+
+Working on it. <br>
+✔️ .html <br>
+✔️ .css <br>
+✔️ .js <br>
+⚙️ React (+ Hooks) <br> 
+⚙️ Redux
+
+
+<h3> 🔥 Motivation </h3>
+
+On my way to improve my skills. Trusting the process. <br>
+Reaching my first Devs Communities and working on Open Source projects.
+
+
+<h3> ☕ Wanna grab a coffee? Let's talk </h3>
+
+linkedin: /ignaciofpqr <br>
+twitter: @ignaciofpqr <br>
+email: ignaciofpqr@gmail.com 
+
+
