@@ -1,4 +1,4 @@
-# Hola amigos! I'm Nacho 👋
+# Hola! I'm Nacho 👋
 
 Bootcamp student for Henry 🚀 <br>
 Full-stack developer with passion for sports, videogames and people. <br> 
