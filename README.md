@@ -1,8 +1,8 @@
-# Hola! I'm Ignacio 👋
+# Hola amigos! I'm Nacho 👋
 
 Bootcamp student for Henry 🚀 <br>
 Full-stack developer with passion for sports, videogames and people. <br> 
-Proudly from Argentina 🧉
+Proudly from Buenos Aires, Argentina 🧉
 
 
 
@@ -25,7 +25,7 @@ Reaching my first Devs Communities and working on Open Source projects.
 <h3> ☕ Wanna grab a coffee? Let's talk </h3>
 
 linkedin: /ignaciofpqr <br>
-twitter: @ignaciofpqr <br>
+twitter: @nachofpqr <br>
 email: ignaciofpqr@gmail.com 
 
 
