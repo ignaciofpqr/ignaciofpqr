@@ -7,7 +7,7 @@
 🦁 100% Gryffindor. <br>
 
 
-<h3> 🛠️ Skills </h3>
+<h3> 🛠️ Languages and Tools </h3>
 
 Working everyday on them. <br>
 ✔️ .html <br>
@@ -20,8 +20,8 @@ Working everyday on them. <br>
 
 <h3> 🔥 Motivation </h3>
 
-Trusting the process. This is a marathon! <br>
-Looking forward to reach some Dev Communities and Contribute to any Open Source Projects.
+Trusting the process. This is a marathon! Working on my skills everyday to get better. <br>
+Looking forward to reach some Dev Communities and contribute to any Open Source projects.
 
 
 
