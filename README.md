@@ -18,9 +18,10 @@ Working everyday on them. <br>
 ⚙️ DB Management 
 
 
+
 <h3> 🔥 Motivation </h3>
 
-Trusting the process. This is a marathon! Working on my skills everyday to get better. <br>
+Trusting the process. This is a marathon! <br>
 Looking forward to reach some Dev Communities and contribute to any Open Source projects.
 
 
