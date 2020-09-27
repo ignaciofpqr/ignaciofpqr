@@ -15,7 +15,7 @@ Working everyday on them. <br>
 ✔️ .js <br>
 ✔️ React (+ Hooks) <br> 
 ✔️ Redux (+ Ducks method) <br>
-✔️ Express
+✔️ Express <br>
 ⚙️ DB Management (Postgres, MySQL)
 
 
