@@ -33,6 +33,3 @@ Looking forward to reach some Dev Communities and contribute to any Open Source 
 <a href="https://www.linkedin.com/in/ignaciofpqr/"> <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="40" height="40"> </a> 
 
 email: ignaciofpqr@gmail.com 
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ignaciofpqr)](https://github.com/anuraghazra/github-readme-stats)
