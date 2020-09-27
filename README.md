@@ -29,7 +29,7 @@ Looking forward to reach some Dev Communities and contribute to any Open Source 
 
 <h3> ☕ Wanna grab a coffee? Let's talk! </h3>
 
-<a href="https://www.twitter.com/nachofpqr"> <img src="https://www.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.png" width="40" height="40"> </a> 
-<a href="https://www.linkedin.com/in/ignaciofpqr/"> <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="40" height="40"> </a> 
+<a href="https://www.twitter.com/nachofpqr" target="_blank"> <img src="https://www.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.png" width="40" height="40"> </a> 
+<a href="https://www.linkedin.com/in/ignaciofpqr/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="40" height="40"> </a> 
 
 email: ignaciofpqr@gmail.com 
