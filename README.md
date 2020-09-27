@@ -3,8 +3,8 @@
 
 👨🏽‍💻 I'm a Full-stack developer from Argentina, currently finishing my Bootcamp (Henry🚀  YC'20). <br>
 🌱 Looking forward to continue this journey adding some degree studies. <br>
-😁 I'm passionate for sports, dogs and people! <br>
-🦁 100% Gryffindor! <br>
+😁 I'm passionate for sports (i'm a basketball coach 🏀), dogs and people! <br>
+🦁 100% Gryffindor ⚡! <br>
 
 
 <h3> 🛠️ Languages and Tools </h3>
