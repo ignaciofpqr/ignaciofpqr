@@ -16,7 +16,7 @@ Working everyday on them. <br>
 ✔️ React (+ Hooks) <br> 
 ✔️ Redux (+ Ducks method) <br>
 ✔️ Express <br>
-⚙️ DB Management (Postgres, MySQL)
+⚙️ DB Management (Postgres, MySQL)<br>
 ⚙️ Testing (Mocha, Chi, Jasmine)
 
 
