@@ -17,6 +17,7 @@ Working everyday on them. <br>
 ✔️ Redux (+ Ducks method) <br>
 ✔️ Express <br>
 ⚙️ DB Management (Postgres, MySQL)
+⚙️ Testing (Mocha, Chi, Jasmine)
 
 
 
