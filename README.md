@@ -13,6 +13,7 @@ Working everyday on them. <br>
 ✔️ .html <br>
 ✔️ .css <br>
 ✔️ .js <br>
+✔️ Node.js <br>
 ✔️ React (+ Hooks) <br> 
 ✔️ Redux (+ Ducks method) <br>
 ✔️ Express <br>
