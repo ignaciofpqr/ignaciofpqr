@@ -1,37 +1,38 @@
 # Hola! I'm Nacho 👋
 
-
-👨🏽‍💻 I'm a Full-stack developer from Argentina, currently finishing my Bootcamp (Henry🚀  YC'20). <br>
+👨🏽‍💻 I'm a Full-stack web developer from Argentina, currently finishing my Bootcamp (Henry🚀  YC'20). <br>
 🌱 Looking forward to continue this journey adding some degree studies. <br>
-😁 I'm passionate for sports (i'm a basketball coach 🏀), dogs and people! <br>
-🦁 100% Gryffindor ⚡! <br>
 
 
-<h3> 🛠️ Languages and Tools </h3>
+<h3> 🧠 Technical knowledges </h3>
 
 Working everyday on them. <br>
 ✔️ .html <br>
 ✔️ .css <br>
 ✔️ .js <br>
+✔️ React.js (+ Hooks) <br> 
+✔️ Bootstrap
+✔️ Redux.js <br>
 ✔️ Node.js <br>
-✔️ React (+ Hooks) <br> 
-✔️ Redux (+ Ducks method) <br>
 ✔️ Express <br>
-⚙️ DB Management (Postgres, MySQL)<br>
-⚙️ Testing (Mocha, Chi, Jasmine)
+✔️ Postgres <br>
 
 
+<h3> ⚡ Projects </h3>
 
-<h3> 🔥 Motivation </h3>
+<h4> WATCHUSEEK </h4>
+E-commerce Final Team Project at Henry Bootcamp using Agile methodologies.
 
-Trusting the process. This is a marathon! <br>
-Looking forward to reach some Dev Communities and contribute to any Open Source projects.
 
+<h4> GALILEO </h4>
+Personal project also part of Henry.
+Objective: to connect FE and BE to an external API (Mercado Libre).
+Felt free to create a little here.
 
 
 <h3> ☕ Wanna grab a coffee? Let's talk! </h3>
 
-<a href="https://www.twitter.com/nachofpqr" target="_blank"> <img src="https://www.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.png" width="40" height="40"> </a> 
+<a href="https://www.twitter.com/nachfp" target="_blank"> <img src="https://www.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.png" width="40" height="40"> </a> 
 <a href="https://www.linkedin.com/in/ignaciofpqr/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="40" height="40"> </a> 
 
 📬 email: ignaciofpqr@gmail.com 
