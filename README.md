@@ -19,11 +19,11 @@
 <h3> ⚡ Projects </h3>
 
 <h4> GALILEO </h4>
-Personal APIRest project<br>
+Personal APIRest project <br>
 
 <h4> WATCHUSEEK </h4>
-E-commerce Final Team Project at Henry Bootcamp using Agile methodologies.
-Repo here: 
+E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
+Repo here 👉 <a href="https://github.com/ignaciofpqr/Watchuseek" target="_blank"> Click me </a><br>
 
 
 <h3> ☕ Wanna grab a coffee? Let's talk! </h3>
