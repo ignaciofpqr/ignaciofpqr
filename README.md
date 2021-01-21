@@ -11,7 +11,7 @@ Working everyday on them. <br>
 ✔️ .css <br>
 ✔️ .js <br>
 ✔️ React.js (+ Hooks) <br> 
-✔️ Bootstrap
+✔️ Bootstrap <br>
 ✔️ Redux.js <br>
 ✔️ Node.js <br>
 ✔️ Express <br>
@@ -20,14 +20,12 @@ Working everyday on them. <br>
 
 <h3> ⚡ Projects </h3>
 
+<h4> GALILEO </h4>
+Personal APIRest project<br>
+
 <h4> WATCHUSEEK </h4>
 E-commerce Final Team Project at Henry Bootcamp using Agile methodologies.
-
-
-<h4> GALILEO </h4>
-Personal project also part of Henry.
-Objective: to connect FE and BE to an external API (Mercado Libre).
-Felt free to create a little here.
+Repo here: 
 
 
 <h3> ☕ Wanna grab a coffee? Let's talk! </h3>
