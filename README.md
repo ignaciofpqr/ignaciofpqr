@@ -5,8 +5,6 @@
 
 
 <h3> 🧠 Technical knowledges </h3>
-
-Working everyday on them. <br>
 ✔️ .html <br>
 ✔️ .css <br>
 ✔️ .js <br>
