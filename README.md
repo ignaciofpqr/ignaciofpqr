@@ -3,8 +3,7 @@
 👨🏽‍💻 I'm a Full-stack web developer from Argentina, currently finishing my Bootcamp (Henry🚀  YC'20). <br>
 🌱 Looking forward to continue this journey adding some degree studies. <br>
 
-<hr style="width:10%">
-<h4> 🧠 TECHNICAL KNOWLEDGES </h4> <br>
+# 🧠 TECHNICAL KNOWLEDGES <br>
 ✔️ .html <br>
 ✔️ .css <br>
 ✔️ .js <br>
@@ -16,9 +15,8 @@
 ✔️ Postgres <br>
 
 
-<hr style="width:20%">
-<h4>⚡ PROJECTS </h4> <br>
-
+<hr style="width:10%">
+# ⚡ PROJECTS  <br>
 <u>Galileo</u> <br>
 Personal APIRest project <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
@@ -28,7 +26,7 @@ E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Watchuseek" target="_blank"> here </a><br>
 
 
-<hr style="width:30%">
-<h4> ☕ Let's talk! </h4> <br>
+<hr style="width:10%">
+# ☕ Let's talk! <br>
 <a href="https://www.twitter.com/nachfp" target="_blank"> <img src="https://www.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.png" width="40" height="40"> </a> 
 <a href="https://www.linkedin.com/in/ignaciofpqr/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="40" height="40"> </a> 
