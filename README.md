@@ -4,7 +4,7 @@
 🌱 Looking forward to continue this journey adding some degree studies. <br>
 
 <hr style="width:40%">
-### 🧠 TECHNICAL KNOWLEDGES 
+### 🧠 TECHNICAL KNOWLEDGES <br>
 ✔️ .html <br>
 ✔️ .css <br>
 ✔️ .js <br>
