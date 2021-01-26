@@ -11,8 +11,8 @@
 ✔️ Bootstrap <br>
 ✔️ Redux.js <br>
 ✔️ Node.js <br>
-✔️ Express <br>
-✔️ Postgres <br>
+✔️ Express.js <br>
+✔️ PostgreSQL <br>
 
 
 ## ⚡ PROJECTS  <br>
