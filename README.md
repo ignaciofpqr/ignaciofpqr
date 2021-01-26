@@ -3,8 +3,8 @@
 👨🏽‍💻 I'm a Full-stack web developer from Argentina, currently finishing my Bootcamp (Henry🚀  YC'20). <br>
 🌱 Looking forward to continue this journey adding some degree studies. <br>
 
-<hr style="width:40%"><br>
-### 🧠 TECHNICAL KNOWLEDGES <br>
+<hr style="width:40%">
+🧠 TECHNICAL KNOWLEDGES <br>
 ✔️ .html <br>
 ✔️ .css <br>
 ✔️ .js <br>
@@ -15,13 +15,13 @@
 ✔️ Express <br>
 ✔️ Postgres <br>
 
-<hr style="width:40%"><br>
-### ⚡ PROJECTS
-<h4> Galileo </h4>
+<hr style="width:40%">
+⚡ PROJECTS
+# Galileo
 Personal APIRest project <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
 
-<h4> WatchUSeek </h4>
+# WatchUSeek
 E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Watchuseek" target="_blank"> here </a><br>
 
