@@ -4,7 +4,7 @@
 🌱 Looking forward to continue this journey adding some degree studies. <br>
 
 
-### <h3> 🧠 Technical knowledges </h3>
+### 🧠 Technical knowledges 
 ✔️ .html <br>
 ✔️ .css <br>
 ✔️ .js <br>
@@ -16,12 +16,12 @@
 ✔️ Postgres <br>
 
 
-### <h3> ⚡ Projects </h3>
+### ⚡ PROJECTS
 
-<h4> GALILEO </h4>
+<h4> Galileo </h4>
 Personal APIRest project <br>
 
-<h4> WATCHUSEEK </h4>
+<h4> WatchUSeek </h4>
 E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Watchuseek" target="_blank"> here </a><br>
 
