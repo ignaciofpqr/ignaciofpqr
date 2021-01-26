@@ -23,8 +23,3 @@ Personal APIRest project <br>
 <u>WatchUSeek</u><br>
 E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Watchuseek" target="_blank"> here </a><br>
-
-
-## ☕ FIND ME <br>
-<a href="https://www.twitter.com/nachfp" target="_blank"> <img src="https://www.iconfinder.com/data/icons/social-flat-rounded-rects/512/twitter-512.png" width="40" height="40"> </a> 
-<a href="https://www.linkedin.com/in/ignaciofpqr/" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" width="40" height="40"> </a> 
