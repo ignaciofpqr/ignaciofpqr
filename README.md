@@ -3,7 +3,7 @@
 👨🏽‍💻 I'm a Full-stack web developer from Argentina, currently finishing my Bootcamp (Henry🚀  YC'20). <br>
 🌱 Looking forward to continue this journey adding some degree studies. <br>
 
-<hr style="width:40%">
+<hr style="width:40%"><br>
 ### 🧠 TECHNICAL KNOWLEDGES <br>
 ✔️ .html <br>
 ✔️ .css <br>
@@ -15,7 +15,7 @@
 ✔️ Express <br>
 ✔️ Postgres <br>
 
-<hr style="width:40%">
+<hr style="width:40%"><br>
 ### ⚡ PROJECTS
 <h4> Galileo </h4>
 Personal APIRest project <br>
