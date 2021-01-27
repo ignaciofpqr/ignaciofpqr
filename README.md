@@ -21,6 +21,7 @@
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
 
 <a><img src="https://i.ibb.co/DrXdrX3/Screen-Home.png" alt="Screen-Home" border="0" width="100%" height="100%"></a>
+![SearchBar6](https://user-images.githubusercontent.com/66188006/106047700-b31ee380-60c2-11eb-801c-367a7a40573c.gif)
 
 
 - WatchUSeek <br>
