@@ -16,13 +16,13 @@
 
 
 ## ⚡ PROJECTS  <br>
-# Galileo <br>
+### Galileo <br>
 Personal APIRest project <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
 
 <a href="https://ibb.co/hY50Y5p"><img src="https://i.ibb.co/DrXdrX3/Screen-Home.png" alt="Screen-Home" border="0"></a>
 
 
-# WatchUSeek <br>
+### WatchUSeek <br>
 E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Watchuseek" target="_blank"> here </a><br>
