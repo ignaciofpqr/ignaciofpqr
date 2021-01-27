@@ -20,7 +20,7 @@
 Personal APIRest project <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
 
-<a href="https://ibb.co/hY50Y5p"><img src="https://i.ibb.co/DrXdrX3/Screen-Home.png" alt="Screen-Home" border="0" width="500" height="600"></a>
+<a href="https://ibb.co/hY50Y5p"><img src="https://i.ibb.co/DrXdrX3/Screen-Home.png" alt="Screen-Home" border="0" width="80%" height="80%"></a>
 
 - WatchUSeek <br>
 E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
