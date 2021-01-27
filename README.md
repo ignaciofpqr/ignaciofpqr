@@ -24,6 +24,8 @@
 ![SearchBar6](https://user-images.githubusercontent.com/66188006/106047700-b31ee380-60c2-11eb-801c-367a7a40573c.gif)
 
 
+
 - WatchUSeek <br>
   E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Watchuseek" target="_blank"> here </a><br>
+
