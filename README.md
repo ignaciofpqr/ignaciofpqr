@@ -19,7 +19,8 @@
 <u>Galileo</u> <br>
 Personal APIRest project <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
-<a href="https://ibb.co/hY50Y5p"><img src="https://i.ibb.co/DrXdrX3/Screen-Home.png" alt="Screen-Home" border="0" max-width="60%"></a>
+
+<a href="https://ibb.co/hY50Y5p"><img src="https://i.ibb.co/DrXdrX3/Screen-Home.png" alt="Screen-Home" border="0" style="max-width="60%""></a>
 
 
 <u>WatchUSeek</u><br>
