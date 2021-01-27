@@ -28,5 +28,6 @@
 - WatchUSeek <br>
   E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Watchuseek" target="_blank"> here </a><br>
+
 ![WatchuIndex](https://user-images.githubusercontent.com/66188006/106063030-5b8a7300-60d6-11eb-8908-965b691a99bc.gif)
 <a><img src="https://i.ibb.co/1szs6hj/Screenshot-2021-01-27-Watchuseek.png" alt="Screenshot-2021-01-27-Watchuseek" border="0" width="100%" height="100%"></a>
