@@ -16,7 +16,7 @@
 
 
 ## ⚡ PROJECTS  <br>
-### Galileo <br>
+<u>mispeled</u> <br>
 Personal APIRest project <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
 
