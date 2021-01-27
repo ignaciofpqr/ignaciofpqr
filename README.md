@@ -21,7 +21,8 @@
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
 
 <a><img src="https://i.ibb.co/DrXdrX3/Screen-Home.png" alt="Screen-Home" border="0" width="65%" height="65%"></a>
-![SearchBar](https://user-images.githubusercontent.com/66188006/106044739-e790a080-60be-11eb-9014-21eae72546d0.gif)
+![SearchBar2](https://user-images.githubusercontent.com/66188006/106045763-27a45300-60c0-11eb-9c38-1ceaa28448e5.gif)
+
 
 - WatchUSeek <br>
   E-commerce Final Team Project at Henry Bootcamp using Agile methodologies. <br>
