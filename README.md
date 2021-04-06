@@ -1,9 +1,10 @@
-# Hola! I'm Nacho 👋
+# Hola 👋, I'm Nacho!
 
-👨🏽‍💻 I'm a Full-stack web developer from Argentina, currently finishing my Bootcamp (Henry🚀  YC'20). <br>
-🌱 Looking forward to continue this journey adding some degree studies. <br>
+👨🏽‍💻 A Full-stack web developer from Argentina, currently finishing my Bootcamp (Henry🚀  YC'20). <br>
+🌱 Next steps: Degree studies at ORT. <br>
 
-## 🧠 TECHNICAL KNOWLEDGES <br>
+<hr>
+## 🧰 TOOLBOX <br>
 ✔️ .html <br>
 ✔️ .css <br>
 ✔️ .js <br>
@@ -14,7 +15,7 @@
 ✔️ Express.js <br>
 ✔️ PostgreSQL <br>
 
-
+<hr>
 ## ⚡ PROJECTS  <br>
 - Galileo  <br>
   Personal APIRest project <br>
@@ -31,3 +32,8 @@
 
 ![WatchuIndex](https://user-images.githubusercontent.com/66188006/106063030-5b8a7300-60d6-11eb-8908-965b691a99bc.gif)
 <a><img src="https://i.ibb.co/1szs6hj/Screenshot-2021-01-27-Watchuseek.png" alt="Screenshot-2021-01-27-Watchuseek" border="0" width="100%" height="100%"></a>
+
+<hr>
+
+## 📬 FIND ME!  <br>
+ignaciofpqr@gmail.com ! 
