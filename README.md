@@ -6,16 +6,15 @@ Next steps: Degree studies at ORT. <br>
 <hr>
 
 ## 🧰 TOOLBOX <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg" heigth="50px" width="50px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" heigth="50px" width="50px"/>
-✔️ .css <br>
-✔️ .js <br>
-✔️ React.js (+ Hooks) <br> 
-✔️ Bootstrap <br>
-✔️ Redux.js <br>
-✔️ Node.js <br>
-✔️ Express.js <br>
-✔️ PostgreSQL <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original.svg" heigth="50px" width="50px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" heigth="50px" width="50px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" heigth="50px" width="50px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/redux/redux-original.svg" heigth="50px" width="50px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" heigth="50px" width="50px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original.svg" heigth="50px" width="50px"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" heigth="50px" width="50px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" heigth="50px" width="50px"/> <br>
 
 <hr>
 
