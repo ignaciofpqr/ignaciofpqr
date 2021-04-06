@@ -5,7 +5,7 @@ Next steps: Degree studies at ORT. <br>
 
 <hr>
 
-# 🧰 TOOLBOX <br>
+## 🧰 TOOLBOX <br>
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original.svg" alt="HTML5" style="max-width:100%;" width="50" height="50">
 </a>
