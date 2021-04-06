@@ -4,6 +4,7 @@
 🌱 Next steps: Degree studies at ORT. <br>
 
 <hr>
+
 ## 🧰 TOOLBOX <br>
 ✔️ .html <br>
 ✔️ .css <br>
@@ -16,6 +17,7 @@
 ✔️ PostgreSQL <br>
 
 <hr>
+
 ## ⚡ PROJECTS  <br>
 - Galileo  <br>
   Personal APIRest project <br>
