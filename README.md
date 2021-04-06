@@ -1,4 +1,4 @@
-# Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" />, I'm Nacho!
+# Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50"/>, I'm Nacho!
 
 A Full-stack web developer from Argentina, specialized in Javascript technologies. <br>
 Next steps: Degree studies at ORT. <br>
