@@ -56,5 +56,5 @@ Next steps: Degree studies at ORT. <br>
 
 <hr>
 
-## 📬 FIND ME!  <br>
+## 📬 WRITE TO ME!  <br>
 ignaciofpqr@gmail.com ! 
