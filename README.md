@@ -37,7 +37,7 @@ Working as a Front-End dev for Kin + Carta since May 2021. <br>
 
 <hr>
 
-## ⚡ PROJECTS  <br>
+## ⚡ PERSONAL PROJECTS  <br>
 - Galileo  <br>
   Personal APIRest project <br>
 🌱 Repo <a href="https://github.com/ignaciofpqr/Galileo" target="_blank"> here </a><br>
